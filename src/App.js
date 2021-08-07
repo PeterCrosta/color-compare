@@ -25,7 +25,7 @@ function App() {
   }
 
   const handleClick = () => {
-    window.alert('This is a dummy button you stupid idiot! It doesn \'t do anything!')
+    window.alert('This is a dummy button you stupid idiot! It doesn\'t do anything!')
   }
 
   return (
