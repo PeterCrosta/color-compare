@@ -1,3 +1,8 @@
+A simple app I made for my sister to quickly see how color combinations would work together in her web dev work.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
