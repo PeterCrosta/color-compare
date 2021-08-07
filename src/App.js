@@ -35,16 +35,19 @@ function App() {
           <input
             type='text'
             value={background}
+            placeholder='background'
             onChange={(e) => setBackground(e.target.value)} />
 
           <input
             type='text'
             value={accent}
+            placeholder='accent'
             onChange={(e) => setAccent(e.target.value)} />
 
           <input
           type='text'
           value={font}
+          placeholder='font'
           onChange={(e) => setFont(e.target.value)} />
 
         </div>
